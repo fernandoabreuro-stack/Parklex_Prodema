@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Planificador de Tareas de Impregnación",
+  "description": "Sistema avanzado de planificación de producción industrial con importación inteligente de Excel, cálculo de tiempos basado en velocidades de máquina y visualización Gantt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
